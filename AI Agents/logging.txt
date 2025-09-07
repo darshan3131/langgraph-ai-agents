@@ -1,0 +1,18 @@
+Your Conversation Log:
+You: hi i am zaym
+AI: Hello, Zaym! How can I assist you today?
+
+You: tell me a joke
+AI: Sure! Here you go:
+
+Why did the scarecrow win an award?
+
+Because he was outstanding in his field!
+
+You: 
+AI: It looks like your message didn’t come through. If you have something to say or ask, feel free to type it!
+
+You: good
+AI: I'm glad you liked it! If you want to hear another joke or if there's something else you'd like to talk about, just let me know!
+
+End of Conversation

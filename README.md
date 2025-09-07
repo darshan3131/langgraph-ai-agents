@@ -1,88 +1,73 @@
-# LangGraph Learning Journey 🤖
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-Learning%20Journey-blue?logo=python" alt="LangGraph Badge"/>
+  <img src="https://img.shields.io/badge/Python-3.11+-yellow?logo=python" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter" alt="Jupyter Badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License Badge"/>
+</p>
 
-A collection of hands-on projects exploring LangGraph, a powerful framework for building stateful, multi-actor applications with LLMs.
+<h1 align="center">LangGraph Learning Journey 🤖</h1>
 
-## 🎯 What This Repository Contains
+<p align="center">
+  A collection of hands-on projects exploring <strong>LangGraph</strong>, a framework for building stateful, multi-actor applications with LLMs.
+</p>
 
-This repository showcases my progression through learning LangGraph, from basic concepts to more complex implementations. Each project demonstrates different aspects of building AI agents and graph-based workflows.
+---
 
-### 📁 Project Structure
-
-```
+## 📂 Project Structure
+LangGraph/
 ├── Graphs/          # Core LangGraph implementations
 ├── Exercises/       # Practice exercises and challenges
+├── nodes/           # Reusable node functions
+├── graphs/          # Python-based graph definitions
+├── requirements.txt # Dependencies
 └── README.md        # This file
-```
+
+---
 
 ## 🚀 Featured Projects
 
 ### 1. Hello World Agent (`Graphs/graph1.ipynb`)
-
-- **Concept**: Basic LangGraph agent implementation
-- **Skills Demonstrated**: StateGraph creation, node definition, agent compilation
-- **Key Features**: Simple greeting system with state management
+- **Concept**: Basic LangGraph agent implementation  
+- **Skills**: StateGraph creation, node definition, agent compilation  
+- **Features**: Simple greeting system with state management  
 
 ### 2. Mathematical Operations Agent (`Exercises/ex2graph.ipynb`)
-
-- **Concept**: Conditional logic processing with mathematical operations
-- **Skills Demonstrated**: Conditional branching, mathematical computations, error handling
-- **Key Features**: Supports addition and multiplication operations based on user input
+- **Concept**: Conditional logic processing with mathematical operations  
+- **Skills**: Conditional branching, math computations, error handling  
+- **Features**: Supports addition and multiplication  
 
 ### 3. List Processing Agent (`Graphs/graph2.ipynb`)
-
-- **Concept**: Array/list manipulation and processing
-- **Skills Demonstrated**: List operations, sum calculations, dynamic response generation
-- **Key Features**: Processes integer arrays and generates personalized mathematical results
+- **Concept**: Array/list manipulation  
+- **Skills**: List ops, sum calculations, dynamic response generation  
+- **Features**: Processes integer arrays and generates results  
 
 ### 4. Personalized Compliment Agent (`Exercises/ex1graph.ipynb`)
-
-- **Concept**: Dynamic message generation with state concatenation
-- **Skills Demonstrated**: State manipulation, string concatenation in agent workflows
-- **Key Features**: Personalized responses based on user input
-
-## 🛠️ Technologies Used
-
-- **LangGraph**: Framework for building stateful AI applications
-- **Python**: Core programming language
-- **Jupyter Notebooks**: Interactive development environment
-- **TypedDict**: Type-safe state management
-
-## 📊 Key Learning Outcomes
-
-- ✅ Understanding of graph-based AI agent architecture
-- ✅ State management in multi-step AI workflows
-- ✅ Node creation and graph compilation
-- ✅ Visual representation of agent workflows
-- ✅ Hands-on experience with LangGraph's StateGraph
-
-## 🔧 Getting Started
-
-### Prerequisites
-
-```bash
-pip install langgraph
-```
-
-### Running the Projects
-
-1. Clone this repository
-2. Install dependencies
-3. Open any `.ipynb` file in Jupyter Notebook
-4. Run cells sequentially to see the agents in action
-
-## 📈 What's Next
-
-This repository represents my foundational understanding of LangGraph. Future additions will include:
-
-- Multi-agent systems
-- Complex workflow orchestration
-- Integration with external APIs
-- Production-ready implementations
-
-## 🤝 Connect With Me
-
-I'm passionate about AI/ML engineering and always open to discussing innovative applications of LangGraph and related technologies.
+- **Concept**: Dynamic message generation  
+- **Skills**: State manipulation, string concatenation  
+- **Features**: Personalized responses based on user input  
 
 ---
 
-_This repository demonstrates practical AI development skills and understanding of modern agent-based architectures._
+## 🛠️ Tech Stack
+
+- 🐍 **Python** — core language  
+- 📊 **Jupyter Notebooks** — interactive experiments  
+- 🔗 **LangGraph** — building stateful workflows  
+- 📝 **TypedDict** — type-safe state handling  
+
+---
+
+## 📈 Key Learning Outcomes
+
+- ✅ Understanding graph-based AI agent architecture  
+- ✅ Managing state across multi-step workflows  
+- ✅ Node creation and graph compilation  
+- ✅ Visualizing agent workflows  
+- ✅ Practical experience with LangGraph  
+
+---
+<p align="center">
+  <a href="https://github.com/darshan3131"><img src="https://img.shields.io/badge/GitHub-darshan3131-black?logo=github"></a>
+</p>
+```
+
