@@ -16,9 +16,18 @@
 ## 📂 Project Structure
 LangGraph/
 ├── Graphs/               # Core LangGraph implementations
+
+
+
 ├── Excercises/            # Practice notebooks and challenges
+
+
 ├── AI Agents/             # Python-based AI agents
+
+
 ├── requirements.txt       # Dependencies
+
+
 └── README.md              # This file
 
 ---
